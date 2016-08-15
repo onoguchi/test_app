@@ -8,6 +8,7 @@ function addTodoPicture() {
         targetHeight : 100
     });
     //test01
+    //test02
 }
 function addTodo(camera_url) {
     var title = $("#todo-title").val();
