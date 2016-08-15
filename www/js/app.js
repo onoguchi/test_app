@@ -7,6 +7,7 @@ function addTodoPicture() {
         targetWidth : 100,
         targetHeight : 100
     });
+    //test01
 }
 function addTodo(camera_url) {
     var title = $("#todo-title").val();
